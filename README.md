@@ -19,8 +19,8 @@
   * [x] Learn about Pytorch LR Scheduler
   * [x] Learn about SGD momentum 
   * [x] Save checkpoints
-  * [ ] Load checkpoints
-  * [ ] Image Processing
+  * [x] Load checkpoints
+  * [x] Image Processing
 
 ## Part 2 - Command Line Application
 
