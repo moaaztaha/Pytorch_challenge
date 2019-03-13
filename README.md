@@ -1,6 +1,6 @@
 # Flowers Classifier
 
-* Udacity Pytorch challenge
+* Udacity Pytorch challenge(nd188)
 
   ## Part 1 - Development Notebook
 
