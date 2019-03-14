@@ -21,7 +21,7 @@
   * [x] Save checkpoints
   * [x] Load checkpoints
   * [x] Image Processing
-
+  * [ ] Top K classes
 ## Part 2 - Command Line Application
 
 - [ ] Training the network
