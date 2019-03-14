@@ -22,6 +22,7 @@
   * [x] Load checkpoints
   * [x] Image Processing
   * [ ] Top K classes
+  	* [x] Predict 5k
   	* [ ] Fix the bar graph
   * [ ] Add class_to_idx
 ## Part 2 - Command Line Application
