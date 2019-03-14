@@ -22,6 +22,8 @@
   * [x] Load checkpoints
   * [x] Image Processing
   * [ ] Top K classes
+  	* [ ] Fix the bar graph
+  * [ ] Add class_to_idx
 ## Part 2 - Command Line Application
 
 - [ ] Training the network
