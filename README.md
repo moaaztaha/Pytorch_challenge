@@ -25,25 +25,3 @@
   	* [x] Predict 5k
   	* [ ] Fix the bar graph
   * [ ] Add class_to_idx
-## Part 2 - Command Line Application
-
-- [ ] Training the network
-- [ ] Training validation log
-- [ ] Model architecture
-- [ ] Model hyperparameters
-- [ ] Training with GPU
-- [ ] predicting classes
-- [ ] Top K clases
-- [ ] Displaying class names
-- [ ] Predicting with GPU
-
-
-
-
-
-
-
-### Notes
-
-- [ ] remember to change the batch size
-- [ ] Use different models 
